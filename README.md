@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Miguel Mendes! 👋 (Hi, I'm Miguel!)
 
-<!--
-**MiguelEm-dev/MiguelEm-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia e entusiasta em desenvolvimento Python. 
+(Engineering student and Python development enthusiast.)
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas (Tech Stack):
+- **Linguagem:** Python 
+- **IDE:** PyCharm
+- **Sistemas:** Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Meus Projetos (My Projects):
+- [Validador de Senhas Bilingue] (https://github.com/MiguelEm-dev/password-strength-validator.git) - Um script Python que valida requisitos de segurança de senhas.
+
+---
+ **Como me encontrar:** www.linkedin.com/in/miguel-emidio-6b8680409
