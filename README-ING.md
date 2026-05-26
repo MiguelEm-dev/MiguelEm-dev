@@ -13,8 +13,9 @@ Software Engineering student • Cybersecurity enthusiast
 - [Contact](#contact)
 - [License](#license)
 
+
 ## About me
-I am a Software Engineering student focused on secure development and practical cybersecurity. I enjoy automating checks, building utility tools, and studying both offensive and defensive techniques.
+I am a cybersecurity-focused Software Engineering student specializing in applied offensive and defensive security. My primary interests are vulnerability discovery, security automation, and building practical tools for assessments and incident response. I prefer hands‑on security work—penetration testing, threat hunting, and hardening systems—while using programming as a means to automate and scale security tasks.
 
 ## Technologies & tools
 - **Languages:** Python  
