@@ -14,7 +14,7 @@ Estudante de Engenharia de Software • Entusiasta de Cibersegurança
 - [Licença](#licença)
 
 ## Sobre mim
-Sou estudante de Engenharia de Software com foco em desenvolvimento seguro e práticas de cibersegurança. Gosto de automatizar verificações, criar ferramentas utilitárias e estudar técnicas ofensivas e defensivas aplicadas.
+Sou estudante de Engenharia de Software com foco total em Cibersegurança, especializado em práticas ofensivas e defensivas aplicadas. Meus interesses principais são descoberta de vulnerabilidades, automação de segurança e desenvolvimento de ferramentas práticas para avaliações e resposta a incidentes. Prefiro trabalho prático — testes de intrusão, threat hunting e hardening de sistemas — usando programação apenas como meio para automatizar e escalar tarefas de segurança.
 
 ## Tecnologias e ferramentas
 - Linguagens: **Python**
