@@ -20,7 +20,7 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento seguro e pr�
 - Linguagens: **Python**
 - IDE/editor: **PyCharm** (recomendo também **VS Code**)
 - Plataformas: **Windows**, **Linux**
-- Ferramentas: Git, virtualenv/venv, Docker (opcional)
+- Ferramentas: Git, virtualenv/venv
 
 ## Projetos
 - Password Strength Validator — https://github.com/MiguelEm-dev/password-strength-validator  
